@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1440px" height="1024px" viewBox="0 0 1440 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
-    <title>background image</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="background-image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Image" fill="#E4F1FD">
-            <rect id="Background" x="0" y="0" width="1454" height="1048" rx="4"></rect>
-        </g>
-        <polyline id="Path-2" stroke="#096AD0" stroke-width="40" opacity="0.188225446" stroke-linecap="round" stroke-linejoin="round" points="1204 543.403287 1369.40329 378 1578 586.596713"></polyline>
-        <circle id="Oval" stroke="#096AD0" stroke-width="40" opacity="0.188225446" stroke-linecap="round" stroke-linejoin="round" cx="847" cy="326" r="96"></circle>
-        <polyline id="Path-3" stroke="#096AD0" stroke-width="40" opacity="0.188225446" stroke-linecap="round" stroke-linejoin="round" points="415 1045.46567 994.465668 466 1189.23502 660.769349"></polyline>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="1024" version="1.1" viewBox="0 0 1440 1024"><title>background image</title><desc>Created with Sketch.</desc><g id="background-image" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Image" fill="#E4F1FD"><rect id="Background" width="1454" height="1048" x="0" y="0" rx="4"/></g><polyline id="Path-2" stroke="#096AD0" stroke-linecap="round" stroke-linejoin="round" stroke-width="40" points="1204 543.403 1369.403 378 1578 586.597" opacity=".188"/><circle id="Oval" cx="847" cy="326" r="96" stroke="#096AD0" stroke-linecap="round" stroke-linejoin="round" stroke-width="40" opacity=".188"/><polyline id="Path-3" stroke="#096AD0" stroke-linecap="round" stroke-linejoin="round" stroke-width="40" points="415 1045.466 994.466 466 1189.235 660.769" opacity=".188"/></g></svg>
