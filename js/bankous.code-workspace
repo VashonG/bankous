@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../components"
+		},
+		{
+			"path": "../your-website"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "."
+		}
+	]
+}
